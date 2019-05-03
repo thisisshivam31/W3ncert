@@ -1,0 +1,171 @@
+body{
+  background-image: linear-gradient(to right, #0effff, yellow);
+  
+}
+
+
+.bg{
+  background-color: black;
+  color: red;
+}
+
+
+.ert{
+  font-size: 7vw;
+}
+
+.eru{
+  font-size: 5vw;
+  color: #fff;
+  font-weight: bold;
+}
+
+
+
+
+
+.c{
+  border: 1vw solid  #ff3300;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 70%;
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  font-size: 7vw;
+  border-radius: 10px;
+  border-bottom-right-radius: 0px;
+}
+
+.d{
+  border: 1vw solid #9900ff;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 70%;
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  font-size: 7vw;
+  border-radius: 10px;
+  border-bottom-right-radius: 0px;
+}
+
+.e{
+  border: 1vw solid #ff0080;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 70%;
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  font-size: 7vw;
+  border-radius: 10px;
+  border-bottom-right-radius: 0px;
+}
+
+.f{
+  border: 1vw solid #0000ff;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 70%;
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  font-size: 7vw;
+  border-radius: 10px;
+  border-bottom-right-radius: 0px;
+}
+
+
+.asdf{
+  color: black;
+}
+
+.asdf:hover{
+  color: black;
+  text-decoration: none;
+}
+
+
+
+
+
+.c:hover{
+  background-color: #ff3300;
+  color: black;
+  text-decoration: none;
+}
+
+.d:hover{
+  background-color: #9900ff;
+  color: black;
+}
+
+.e:hover{
+  background-color: #ff0080;
+  color: black;
+}
+
+.f:hover{
+  background-color: #0000ff;
+  color: black;
+}
+
+
+
+/*for all footer*/
+.footer {
+  padding: 30px;
+  text-align: center;
+  color: #fff;
+  background-color: black;
+  margin-top: 0px;
+}
+
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 30px;
+  text-decoration: none;
+  margin: 10px;
+  color: red;
+  text-align: center;
+}
+
+.fa:hover{
+  opacity: 0.7;
+  text-decoration: none;
+  color: yellow;
+}
+
+
+.this{
+  text-align: center;
+  color: #fff;
+  padding-top: 60px;
+  background-color: black;
+  margin-top: -55px;
+}
+
+
+#logo{
+  max-width:100px;
+  max-height: 100px;
+  border: px solid black;
+  border-radius: 50%;
+  align-items: center;
+  border: 8px solid black;
+
+}
+
+#shivam{
+  margin-bottom: -50px;
+}
