@@ -33,12 +33,12 @@ body{
 
 .c{
   border: 4px solid  #ff3300;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 5%;
+  margin-right: 5%;
   margin-top: 5%;
   margin-bottom: 5%;
   max-width: 600px;
-  min-width: 100px;
+  min-width: 150px;
   text-align: center;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -49,12 +49,12 @@ body{
 
 .d{
   border: 4px solid #009900;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 5%;
+  margin-right: 5%;
   margin-top: 5%;
   margin-bottom: 5%;
   max-width: 600px;
-  min-width: 100px;
+  min-width: 150px;
   text-align: center;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -65,12 +65,12 @@ body{
 
 .e{
   border: 4px solid #ff0080;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 5%;
+  margin-right: 5%;
   margin-top: 5%;
   margin-bottom: 5%;
   max-width: 600px;
-  min-width: 100px;
+  min-width: 150px;
   text-align: center;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -81,12 +81,12 @@ body{
 
 .f{
   border: 4px solid #0000ff;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 5%;
+  margin-right: 5%;
   margin-top: 5%;
   margin-bottom: 5%;
   max-width: 600px;
-  min-width: 100px;
+  min-width: 150px;
   text-align: center;
   padding-top: 10px;
   padding-bottom: 10px;
