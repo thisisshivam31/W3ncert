@@ -63,7 +63,7 @@ body{
 
 /*//////////////////////////////////////////////*/
 #kc{
-  background-color: black;
+  background-color: #F0F0F0;
 }
 
 
@@ -87,7 +87,7 @@ body{
 
 .mn{
     margin: 10px;
-    color: #fff;
+    color: black;
 }
 
 
@@ -124,83 +124,6 @@ body{
 
 
 
-
-/*for all footer
-.footer {
-  padding: 30px;
-  text-align: center;
-  color: #fff;
-  background-color: black;
-  margin-top: 0px;
-}
-
-.fa {
-  padding: 5px;
-  font-size: 30px;
-  width: 30px;
-  text-decoration: none;
-  margin: 10px;
-  color: red;
-  text-align: center;
-  border: 2px solid red;
-  border-radius: 50%;
-}
-
-
-.fa:hover{
-    color: #fff;
-    text-decoration: none;
-    transform: scale(1.2);
-    transition: 1s;
-}
-.fa-facebook {
-    color: #3B5998;
-}
-.fa-twitter {
-    color: #55ACEE;
-}
-.fa-google {
-    color: #dd4b39;
-}
-.fa-linkedin {
-    color: #007bb5;
-}
-.fa-youtube {
-    color: #bb0000;
-}
-.fa-instagram {
-    color: #125688;
-}
-
-
-.this{
-  text-align: center;
-  color: #fff;
-  padding-top: 60px;
-  background-color: black;
-  margin-top: -55px;
-}
-
-
-#logo{
-  max-width:100px;
-  max-height: 100px;
-  border: px solid black;
-  border-radius: 50%;
-  align-items: center;
-  border: 8px solid black;
-  border-top-color: red;
-
-}
-
-#shivam{
-  margin-bottom: -50px;
-}
-
-*/
-
-
-
 /*////////////////////////////////////////*/
 /*for all footer content*/
 .footer{
@@ -214,6 +137,7 @@ body{
   color: red;
   margin-bottom: 20px;
   font-family: 'Bungee Outline', cursive;
+  text-decoration: underline;
 }
 .fa{
     font-size: 40px;
@@ -264,6 +188,23 @@ body{
 }
 
 
+#thisisshivam31{
+  color: #fff;
+  text-decoration: underline;
+}
+
+
+
+
+
+#thisisshivam31:hover{
+  color: blue;
+  text-decoration: underline;
+  text-shadow: 25px 5px 25px;
+
+}
+
+
 
 
 .All_Right_Reserved{
@@ -271,12 +212,9 @@ body{
     padding: 12px;
     margin-bottom: -10%;
     font-family: 'Aguafina Script', cursive;
-    font-family: 'IBM Plex Sans', sans-serif
+    font-family: 'IBM Plex Sans', sans-serif;
 }
 
 
 
 /*////////////////////////////////////////*/
-
-
-
