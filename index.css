@@ -53,6 +53,8 @@ body{
 #D{
   text-align: center;
   font-size: 3.5VW;
+  margin-top: 4vw;
+    margin-bottom: 3vw;
   background: -webkit-linear-gradient(right, red, blue);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -78,7 +80,7 @@ body{
 }
 
 .mm{
-    background: -webkit-linear-gradient(right, yellow, red);
+    background: -webkit-linear-gradient(right, blue, red);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     margin: 10px;
@@ -88,6 +90,7 @@ body{
 .mn{
     margin: 10px;
     color: black;
+    font-family: 'Cabin Sketch', cursive;
 }
 
 
@@ -106,9 +109,9 @@ body{
 
 .sb{
     text-align: center;
-    font-size:4vw;
+    font-size:3vw;
     margin-top: 6vw;
-    margin-bottom: 1vw;
+    margin-bottom: 6vw;
     background: -webkit-linear-gradient(right, red, blue);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -117,7 +120,7 @@ body{
 
 
 .sc{
-  font-size: 4vw;
+  font-size: 3vw;
 }
 
 
@@ -136,9 +139,10 @@ body{
 .contact_us_heading{
   color: red;
   margin-bottom: 20px;
-  font-family: 'Bungee Outline', cursive;
-  text-decoration: underline;
+  font-family: 'Anton', sans-serif;
 }
+
+
 .fa{
     font-size: 40px;
     padding: 12px;
@@ -212,9 +216,10 @@ body{
     padding: 12px;
     margin-bottom: -10%;
     font-family: 'Aguafina Script', cursive;
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;    
 }
 
 
 
 /*////////////////////////////////////////*/
+
