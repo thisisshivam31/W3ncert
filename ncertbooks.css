@@ -1,0 +1,166 @@
+body{
+  background-color: #fff;
+}
+
+
+.nav_part_color{
+  background-color: #262626;
+}
+
+
+a{
+  font-family: 'Bree Serif', serif;
+}
+
+
+#withoutnavbar{
+  margin-top: 40px;
+}
+
+
+.w3ncert_main_name{
+  font-family: 'Jacques Francois Shadow', cursive;
+  font-size: 28px;
+  letter-spacing: 1px;
+}
+
+
+.SRF{
+  text-align: center;
+  text-decoration: none;
+  font-size: 3.5VW;
+  font-family: 'Faster One', cursive;
+  color: #333333;
+   
+}
+
+
+
+
+.class_brd{
+  border: 4px solid  #262626;
+  border-left: transparent;
+  border-right: transparent;
+  border-bottom: transparent;
+  margin: 7%;
+  max-width: 600px;
+  min-width: 150px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 30px;
+  border-radius: 10px;
+  box-shadow: -5px 5px 17px #888888;
+}
+
+.class_brd:hover{
+  text-decoration: none;
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+
+
+.asdf{
+  text-decoration: none;
+}
+
+.asdf:hover{
+  text-decoration: none;
+  color: #4333FF;
+}
+
+/*////////////////////////////////////////*/
+/*for all footer content*/
+.footer{
+  /*background: linear-gradient(to bottom right, #333333, black);*/
+  background-color: #262626;
+  text-align: center;
+  color: #fff;
+  padding: 40px;
+  position: bottom;
+  font-family: 'Bree Serif', serif;
+  margin-bottom: -35px;
+}
+
+.contact_us_heading{
+  margin-bottom: 20px;
+  font-family: 'Anton', sans-serif;
+  text-decoration-line: underline;
+}
+
+
+.fa{
+    font-size: 40px;
+    padding: 12px;
+    width: 110px;
+    text-decoration: none;
+    margin: 10px;
+    border-radius: 5px;
+    text-align: left;
+}
+.logo_name{
+    align-items: right;
+    color: yellow;
+}
+.need_any_help?{
+    font-size: 20px;
+}
+.fa:hover{
+    color: #fff;
+    text-decoration: none;
+    transform: scale(1.2);
+    transition: 1s;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+
+}
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+.fa-google {
+    background: #dd4b39;
+    color: white;
+}
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+
+#thisisshivam31{
+  color: #fff;
+  text-decoration: none;
+}
+
+
+
+#thisisshivam31:hover{
+  color: blue;
+  text-decoration: none;
+  text-shadow: 25px 5px 25px;
+
+}
+
+
+.All_Right_Reserved{
+  background-image: linear-gradient(to right, #00ffff, yellow);
+    padding: 12px;
+    margin-bottom: -10%;
+    font-family: 'Aguafina Script', cursive;
+    font-family: 'IBM Plex Sans', sans-serif;    
+}
+
+/*////////////////////////////////////////*/
+
