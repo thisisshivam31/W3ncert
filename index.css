@@ -1,0 +1,229 @@
+body {
+  background-color: #fff;
+}
+
+.nav_part_color {
+  background-color: #262626;
+}
+
+a {
+  font-family: "Bree Serif", serif;
+}
+
+#withoutnavbar {
+  margin-top: 40px;
+}
+
+.w3ncert_main_name {
+  font-family: "Jacques Francois Shadow", cursive;
+  font-size: 28px;
+  letter-spacing: 1px;
+}
+
+.main_images {
+  min-height: 230px;
+  max-height: 700px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 28px;
+}
+
+.welcome {
+  font-size: 7vw;
+  font-family: "Jacques Francois Shadow", cursive;
+  color: #262626;
+  box-shadow: -10px -10px 25px #fff;
+}
+
+.ncert_world {
+  font-size: 7vw;
+  font-family: "Jacques Francois Shadow", cursive;
+  color: #262626;
+  box-shadow: -10px -10px 25px #fff;
+}
+
+.need {
+  font-size: 7vw;
+  font-family: "Jacques Francois Shadow", cursive;
+  color: #ffffff;
+  box-shadow: -10px -10px 25px #fff;
+}
+
+#martag {
+  color: blue;
+  font-family: "Bree Serif", serif;
+}
+
+#t {
+  display: inline;
+}
+
+#d {
+  display: inline;
+}
+
+/*////////////////////////////////////////*/
+/*w3ncert.com*/
+.w3ncert_big_logo {
+  text-align: center;
+  font-size: 60px;
+  font-size: 8vw;
+  font-family: "Faster One", cursive;
+  color: #303030;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+/*////////////////////////////////////////*/
+/*A Community of Passionate Educators and Learners*/
+.learners {
+  text-align: center;
+  font-size: 3.5vw;
+  color: black;
+  font-family: "Great Vibes", cursive;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+/*ABOUT OUR WEBSITE//////////////////////////////////////////////*/
+#kc {
+  background-color: #f0f0f0;
+}
+
+.ke {
+  width: 50%;
+  font-size: 2.1vw;
+  font-family: "Bree Serif", serif;
+}
+
+.ki {
+  width: 50%;
+}
+
+.mm {
+  margin-top: 5px;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 5px;
+  font-size: 3.5vw;
+  font-family: "Bree Serif", serif;
+}
+
+.mn {
+  margin-top: 5px;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 5px;
+  color: black;
+  font-family: "Bree Serif", serif;
+}
+
+#mo {
+  width: 100%;
+  border-top-left-radius: 30%;
+}
+/*//////////////////////////////////////////////*/
+
+.sb {
+  text-align: center;
+  font-size: 3vw;
+  background-image: url(https://i.postimg.cc/d3RFzFzk/footer-background-01-1.jpg);
+  background-size: 100% 100%;
+}
+
+.sc {
+  font-size: 3vw;
+  color: #fff;
+  font-family: "Galada", cursive;
+  margin-top: -5px;
+  margin-bottom: -5px;
+  word-spacing: 1vw;
+  letter-spacing: 0.1vw;
+}
+
+/*////////////////////////////////////////*/
+/*for all footer content*/
+.footer {
+  /*background: linear-gradient(to bottom right, #333333, black);*/
+  background-color: #262626;
+  text-align: center;
+  color: #fff;
+  padding: 40px;
+  position: bottom;
+  font-family: "Bree Serif", serif;
+  margin-bottom: -35px;
+}
+
+.contact_us_heading {
+  margin-bottom: 20px;
+  font-family: "Anton", sans-serif;
+  text-decoration-line: underline;
+}
+
+.fa {
+  font-size: 40px;
+  padding: 12px;
+  width: 110px;
+  text-decoration: none;
+  margin: 10px;
+  border-radius: 5px;
+  text-align: left;
+}
+.logo_name {
+  align-items: right;
+  color: yellow;
+}
+.need_any_help {
+  font-size: 20px;
+}
+.fa:hover {
+  color: #fff;
+  text-decoration: none;
+  transform: scale(1.2);
+  transition: 1s;
+}
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55acee;
+  color: white;
+}
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+#thisisshivam31 {
+  color: #fff;
+  text-decoration: none;
+}
+
+#thisisshivam31:hover {
+  color: blue;
+  text-decoration: none;
+  text-shadow: 25px 5px 25px;
+}
+
+.All_Right_Reserved {
+  background-image: linear-gradient(to right, #00ffff, yellow);
+  padding: 12px;
+  margin-bottom: -10%;
+  font-family: "Aguafina Script", cursive;
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+/*////////////////////////////////////////*/
